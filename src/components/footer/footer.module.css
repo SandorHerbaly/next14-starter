@@ -1,12 +1,16 @@
-.container {
-  /* background-color: purple; */
+.container{
+  /*background-color: purple;*/
   height: 100px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  color: gray;
 }
 
 .logo{
-  font-size: 30px;
   font-weight: bold;
+}
+
+.text{
+  font-size: 14px;
 }
